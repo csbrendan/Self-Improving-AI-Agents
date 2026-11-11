@@ -1,7 +1,5 @@
 # Self Improving AI Agents
 
-Personal notes and experiments by [Brendan P. Murphy](https://github.com/csbrendan).
-
 ## Recommended Reading
 
 ### Inference and Compute
